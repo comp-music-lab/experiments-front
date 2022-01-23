@@ -126,7 +126,7 @@
           | {{ $t('worldMusicHigh11') }}
       el-form-item(:label="$t('worldMusicFeature12')")
         small
-        | How many voices do you hear at once?
+        | How tense does the singing voice sound?
         br
         el-radio(v-model="timbre", :label="0")
           | {{ $t('worldMusicLow12') }}
@@ -136,7 +136,7 @@
           | {{ $t('worldMusicHigh12') }}
       el-form-item(:label="$t('worldMusicFeature13')")
         small
-        | How many voices do you hear at once?
+        | How many people are singing simultaneously?
         br
         el-radio(v-model="overlap", :label="0")
           | {{ $t('worldMusicLow13') }}
