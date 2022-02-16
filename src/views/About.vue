@@ -8,8 +8,6 @@
     | Welcome to the CompMusic Lab for comparative and computational musicology! 
     | We aim to use science to promote cross-cultural diversity and understanding. 
     | Our research has appeared in such outlets as 
-    a(target='_blank', noopener, noreferrer, href='https://www.google.com/url?q=https%3A%2F%2Frdcu.be%2FbrZ1Q&sa=D&sntz=1&usg=AFQjCNEBNbH-mtLBlxkLOlAp9aSGFiScfw') Nature
-    | , 
     a(target='_blank', noopener, noreferrer, href='http://www.google.com/url?q=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F112%2F29%2F8987.full.pdf%3Fwith-ds%3Dyes&sa=D&sntz=1&usg=AFQjCNGGm1ARPcds5gF_0i16C6hSgB2JEA') Proceedings of the National Academy of Sciences
     | , 
     a(target='_blank', noopener, noreferrer, href='https://www.google.com/url?q=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fbehavioral-and-brain-sciences%2Farticle%2Fmusic-as-a-coevolved-system-for-social-bonding%2FF1ACB3586FD3DD5965E56021F506BC4F&sa=D&sntz=1&usg=AFQjCNGVVI6E3oWXV6SRWIy6ImdRrlhkKA') Behavioral and Brain Sciences
